@@ -7,7 +7,7 @@ I learned how to use swipper when coding the project.
 
 ##2 I used
 
-  - Swipper,
+  - Swiper,
 
 # Demo!
 
